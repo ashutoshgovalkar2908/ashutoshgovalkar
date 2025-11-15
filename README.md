@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats  
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshutoshGovalkar&show_icons=true&theme=radical)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshgovalkar2908&show_icons=true&theme=radical)
 
 ---
 
